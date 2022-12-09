@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug PageRank",
+            "program": "${workspaceFolder}/target/debug/pagerank",
+            "args": [
+                "--graph-data-directory",
+                "${workspaceFolder}/../../dataset/incremental",
+                "--tolerance",
+                "1e-10",
+                "--damping-factor",
+                "0.85",
+                "--topk",
+                "10",
+                "--year-lo",
+                "1992",
+                "--year-hi",
+                "2002",
+            ],
+            "cwd": "${workspaceFolder}"
+        },
+    ]
+}

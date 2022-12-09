@@ -1,0 +1,893 @@
+[
+    {
+        "type": "spark-naive",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2002",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 85328
+    },
+    {
+        "type": "spark-naive",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2001",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 80545
+    },
+    {
+        "type": "spark-naive",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2000",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 79341
+    },
+    {
+        "type": "spark-naive",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1999",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 71626
+    },
+    {
+        "type": "spark-naive",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1998",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 60798
+    },
+    {
+        "type": "spark-naive",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1997",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 55396
+    },
+    {
+        "type": "spark-naive",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1996",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 47100
+    },
+    {
+        "type": "spark-naive",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1995",
+        "iteration_times_to_convergence": 46,
+        "time_in_ms": 39920
+    },
+    {
+        "type": "spark-naive",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1994",
+        "iteration_times_to_convergence": 45,
+        "time_in_ms": 32703
+    },
+    {
+        "type": "spark-naive",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1993",
+        "iteration_times_to_convergence": 28,
+        "time_in_ms": 13366
+    },
+    {
+        "type": "spark-naive",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1992",
+        "iteration_times_to_convergence": 5,
+        "time_in_ms": 3467
+    },
+    {
+        "type": "spark-naive",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2002",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 56149
+    },
+    {
+        "type": "spark-naive",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2001",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 51364
+    },
+    {
+        "type": "spark-naive",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2000",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 48336
+    },
+    {
+        "type": "spark-naive",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1999",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 43575
+    },
+    {
+        "type": "spark-naive",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1998",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 38434
+    },
+    {
+        "type": "spark-naive",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1997",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 36181
+    },
+    {
+        "type": "spark-naive",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1996",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 31513
+    },
+    {
+        "type": "spark-naive",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1995",
+        "iteration_times_to_convergence": 46,
+        "time_in_ms": 26417
+    },
+    {
+        "type": "spark-naive",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1994",
+        "iteration_times_to_convergence": 45,
+        "time_in_ms": 22897
+    },
+    {
+        "type": "spark-naive",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1993",
+        "iteration_times_to_convergence": 28,
+        "time_in_ms": 9996
+    },
+    {
+        "type": "spark-naive",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1992",
+        "iteration_times_to_convergence": 5,
+        "time_in_ms": 3084
+    },
+    {
+        "type": "spark-naive",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2002",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 39403
+    },
+    {
+        "type": "spark-naive",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2001",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 35784
+    },
+    {
+        "type": "spark-naive",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2000",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 34542
+    },
+    {
+        "type": "spark-naive",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1999",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 32340
+    },
+    {
+        "type": "spark-naive",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1998",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 29334
+    },
+    {
+        "type": "spark-naive",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1997",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 25546
+    },
+    {
+        "type": "spark-naive",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1996",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 24141
+    },
+    {
+        "type": "spark-naive",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1995",
+        "iteration_times_to_convergence": 46,
+        "time_in_ms": 20993
+    },
+    {
+        "type": "spark-naive",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1994",
+        "iteration_times_to_convergence": 45,
+        "time_in_ms": 18583
+    },
+    {
+        "type": "spark-naive",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1993",
+        "iteration_times_to_convergence": 28,
+        "time_in_ms": 9156
+    },
+    {
+        "type": "spark-naive",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1992",
+        "iteration_times_to_convergence": 5,
+        "time_in_ms": 3218
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2002",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 15382
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2001",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 12453
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2000",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 13387
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1999",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 11528
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1998",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 10902
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1997",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 10693
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1996",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 10048
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1995",
+        "iteration_times_to_convergence": 46,
+        "time_in_ms": 8650
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1994",
+        "iteration_times_to_convergence": 45,
+        "time_in_ms": 8430
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1993",
+        "iteration_times_to_convergence": 28,
+        "time_in_ms": 8172
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1992",
+        "iteration_times_to_convergence": 5,
+        "time_in_ms": 918
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2002",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 12077
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2001",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 11805
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2000",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 11348
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1999",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 11168
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1998",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 10221
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1997",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 9768
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1996",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 9254
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1995",
+        "iteration_times_to_convergence": 46,
+        "time_in_ms": 9211
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1994",
+        "iteration_times_to_convergence": 45,
+        "time_in_ms": 8377
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1993",
+        "iteration_times_to_convergence": 28,
+        "time_in_ms": 7682
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1992",
+        "iteration_times_to_convergence": 5,
+        "time_in_ms": 864
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2002",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 12928
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2001",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 12915
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2000",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 12660
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1999",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 10841
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1998",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 10781
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1997",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 10352
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1996",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 8915
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1995",
+        "iteration_times_to_convergence": 46,
+        "time_in_ms": 8681
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1994",
+        "iteration_times_to_convergence": 45,
+        "time_in_ms": 8766
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1993",
+        "iteration_times_to_convergence": 28,
+        "time_in_ms": 8356
+    },
+    {
+        "type": "spark-graphx",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1992",
+        "iteration_times_to_convergence": 5,
+        "time_in_ms": 873
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2002",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 3682
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2001",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 2821
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2000",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 1983
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1999",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 1313
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1998",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 841
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1997",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 518
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1996",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 300
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1995",
+        "iteration_times_to_convergence": 46,
+        "time_in_ms": 157
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1994",
+        "iteration_times_to_convergence": 45,
+        "time_in_ms": 63
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1993",
+        "iteration_times_to_convergence": 28,
+        "time_in_ms": 16
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "1",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1992",
+        "iteration_times_to_convergence": 5,
+        "time_in_ms": 1
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2002",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 2291
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2001",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 1782
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2000",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 1286
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1999",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 890
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1998",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 589
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1997",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 346
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1996",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 209
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1995",
+        "iteration_times_to_convergence": 46,
+        "time_in_ms": 108
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1994",
+        "iteration_times_to_convergence": 45,
+        "time_in_ms": 48
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1993",
+        "iteration_times_to_convergence": 28,
+        "time_in_ms": 12
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "2",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1992",
+        "iteration_times_to_convergence": 5,
+        "time_in_ms": 1
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2002",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 1657
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2001",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 1270
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "2000",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 965
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1999",
+        "iteration_times_to_convergence": 50,
+        "time_in_ms": 687
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1998",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 471
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1997",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 297
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1996",
+        "iteration_times_to_convergence": 48,
+        "time_in_ms": 184
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1995",
+        "iteration_times_to_convergence": 46,
+        "time_in_ms": 106
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1994",
+        "iteration_times_to_convergence": 45,
+        "time_in_ms": 42
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1993",
+        "iteration_times_to_convergence": 28,
+        "time_in_ms": 14
+    },
+    {
+        "type": "timely-dataflow",
+        "worker": "4",
+        "tolerance": 1e-10,
+        "damping_factor": 0.85,
+        "year": "1992",
+        "iteration_times_to_convergence": 5,
+        "time_in_ms": 4
+    }
+]
